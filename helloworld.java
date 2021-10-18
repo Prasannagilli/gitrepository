@@ -1,8 +1,8 @@
 class helloworld{
-callmyu(){
-}
+
 public static main(String[] args)
 {
+System.out.println("hello");
 
 }
 }
